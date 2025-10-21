@@ -29,7 +29,7 @@
 `scikit-learn` `Pandas` `NumPy` `Matplotlib` `GPT-2` `Entropy-based analysis`
 
 ### 🗄️ Databases
-`MySQL` `PostgreSQL` (planned) `Oracle` (planned)
+`MySQL` `PostgreSQL` `Oracle` (planned)
 
 ### ⚙️ DevOps & Version Control
 `Docker` `Git` `GitHub` `GitLab`
